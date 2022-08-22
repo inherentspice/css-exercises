@@ -1,0 +1,19 @@
+.standard-text {
+  background-color: #f08080;
+  font-family: Verdana, DejaVu Sans, sans-serif;
+}
+
+.standout {
+  font-size: 24px;
+}
+
+#cool-blue {
+  font-size: 36px;
+  color: #0000ff;
+}
+
+#mean-green {
+  background-color: #90ee90;
+  font-size: 24px;
+  font-weight: 700;
+}
