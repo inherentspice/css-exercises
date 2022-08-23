@@ -1,0 +1,15 @@
+.standard-button {
+  border: 3px solid lightgray;
+  font-size: 28px;
+  font-family: Helvetica, 'Times New Roman', sans-serif;
+  text-align: center;
+}
+
+.black {
+  background-color: black;
+  color: white;
+}
+
+.yellow {
+  background-color: yellow;
+}
